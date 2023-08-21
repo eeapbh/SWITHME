@@ -36,25 +36,25 @@
 ## 화면
 
 1. 메인페이지
-<img src="README.assets/홈.gif" alt="홈" style="zoom:25%;" />
+<img src="exec/README.assets/홈.gif" alt="홈" style="zoom:25%;" />
 
 2. 나의학습 페이지
-<img src="README.assets/나의학습.gif" alt="나의학습" style="zoom:25%;" />
+<img src="exec/README.assets/나의학습.gif" alt="나의학습" style="zoom:25%;" />
 
 3. 그룹메인 페이지
-<img src="README.assets/그룹.gif" alt="그룹" style="zoom:25%;" />
+<img src="exec/README.assets/그룹.gif" alt="그룹" style="zoom:25%;" />
 
 4. 그룹상세 페이지
-<img src="README.assets/그룹상세.gif" alt="그룹상세" style="zoom:25%;" />
+<img src="exec/README.assets/그룹상세.gif" alt="그룹상세" style="zoom:25%;" />
 
 5. 자리비움 감지
-6. <img src="README.assets/자리비움.gif" alt="자리비움" style="zoom:25%;" />
+<img src="exec/README.assets/자리비움.gif" alt="자리비움" style="zoom:25%;" />
 
 7. 휴대폰 감지
-<img src="README.assets/휴대폰.gif" alt="휴대폰" style="zoom:25%;" />
+<img src="exec/README.assets/휴대폰.gif" alt="휴대폰" style="zoom:25%;" />
 
 8. 졸음 감지
-<img src="README.assets/졸음.gif" alt="졸음" style="zoom:25%;" />
+<img src="exec/README.assets/졸음.gif" alt="졸음" style="zoom:25%;" />
 
 
 
