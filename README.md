@@ -35,13 +35,26 @@
 
 ## 화면
 
-1. 메인페이지![홈](README.assets/홈.gif)
-2. 나의학습 페이지![나의학습](README.assets/나의학습.gif)
-3. 그룹메인 페이지![그룹](README.assets/그룹.gif)
-4. 그룹상세 페이지![그룹상세](README.assets/그룹상세.gif)
-5. 자리비움 감지![자리비움](README.assets/자리비움.gif)
-6. 휴대폰 감지![휴대폰](README.assets/휴대폰.gif)
-7. 졸음 감지![졸음](README.assets/졸음.gif)
+1. 메인페이지
+<img src="README.assets/홈.gif" alt="홈" style="zoom:25%;" />
+
+2. 나의학습 페이지
+<img src="README.assets/나의학습.gif" alt="나의학습" style="zoom:25%;" />
+
+3. 그룹메인 페이지
+<img src="README.assets/그룹.gif" alt="그룹" style="zoom:25%;" />
+
+4. 그룹상세 페이지
+<img src="README.assets/그룹상세.gif" alt="그룹상세" style="zoom:25%;" />
+
+5. 자리비움 감지
+6. <img src="README.assets/자리비움.gif" alt="자리비움" style="zoom:25%;" />
+
+7. 휴대폰 감지
+<img src="README.assets/휴대폰.gif" alt="휴대폰" style="zoom:25%;" />
+
+8. 졸음 감지
+<img src="README.assets/졸음.gif" alt="졸음" style="zoom:25%;" />
 
 
 
