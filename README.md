@@ -7,8 +7,8 @@
 ---
 
 ## 개발일정
+<img src="exec/deliverables/imgs/week2.png" alt="개발일정" style="zoom:25%;" />
 
-![week2](deliverables/imgs/week2.png)
 
 ## 기획 의도
 
